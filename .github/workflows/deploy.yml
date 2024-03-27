@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - source
+      - main
     paths:
       - "assets/**"
       - "**.html"
